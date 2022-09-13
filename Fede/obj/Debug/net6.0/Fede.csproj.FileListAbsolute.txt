@@ -1,0 +1,15 @@
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\Fede.csproj.AssemblyReference.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\Fede.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\Fede.AssemblyInfoInputs.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\Fede.AssemblyInfo.cs
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\Fede.csproj.CoreCompileInputs.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\bin\Debug\net6.0\Fede.exe
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\bin\Debug\net6.0\Fede.deps.json
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\bin\Debug\net6.0\Fede.runtimeconfig.json
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\bin\Debug\net6.0\Fede.dll
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\bin\Debug\net6.0\Fede.pdb
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\Fede.dll
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\refint\Fede.dll
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\Fede.pdb
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\Fede.genruntimeconfig.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 3. Массивы и функции в программировании\Fede\obj\Debug\net6.0\ref\Fede.dll
